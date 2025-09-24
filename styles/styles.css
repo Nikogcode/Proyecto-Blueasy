@@ -62,7 +62,7 @@ body{
 
 .section1{
 
-    background-image: url(/assets/Fondo.png);
+    background-image: url(assets/Fondo.png);
     height: 800px;
 }
 
@@ -205,49 +205,49 @@ body{
 
 .a{
 
-    background-image: url(/assets/photo01.png);
+    background-image: url(assets/photo01.png);
     background-size: contain;
 }
 
 .b{
 
-    background-image: url(/assets/photo02.png);
+    background-image: url(assets/photo02.png);
     background-size: contain;
 }
 
 .c{
 
-    background-image: url(/assets/photo03.png);
+    background-image: url(assets/photo03.png);
     background-size: contain;
 }
 
 .d{
 
-    background-image: url(/assets/photo04.png);
+    background-image: url(assets/photo04.png);
     background-size: contain;
 }
 
 .e{
 
-    background-image: url(/assets/photo05.png);
+    background-image: url(assets/photo05.png);
     background-size: contain;
 }
 
 .f{
 
-    background-image: url(/assets/photo06.png);
+    background-image: url(assets/photo06.png);
     background-size: contain;
 }
 
 .g{
 
-    background-image: url(/assets/photo07.png);
+    background-image: url(assets/photo07.png);
     background-size: contain;
 }
 
 .h{
 
-    background-image: url(/assets/photo08.png);
+    background-image: url(assets/photo08.png);
     background-size: contain;
 }
 
@@ -353,7 +353,7 @@ body{
 .section6{
 
     height: 400px;
-    background-image: url(/assets/bg_whoIs.png);
+    background-image: url(assets/bg_whoIs.png);
     background-size: 100%;
     background-repeat: no-repeat;
     padding: 80px 370px;
@@ -465,7 +465,7 @@ body{
 .section8{
 
     height: 800px;
-    background-image: url(/assets/bg_contact.png);
+    background-image: url(assets/bg_contact.png);
     padding: 40px 370px;
     background-repeat: no-repeat;
 }
